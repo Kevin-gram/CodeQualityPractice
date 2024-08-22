@@ -1,1 +1,2 @@
-# CodeQualityPractice
+Code quality practice
+
